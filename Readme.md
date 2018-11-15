@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))
+* [SnapReportForGridGenerator.cs](./CS/WindowsFormsApplication1/GridReportExtensions/SnapReportForGridGenerator.cs) (VB: [SnapReportForGridGenerator.vb](./VB/WindowsFormsApplication1/GridReportExtensions/SnapReportForGridGenerator.vb))
+* [SnapReportFormGenerator.cs](./CS/WindowsFormsApplication1/GridReportExtensions/SnapReportFormGenerator.cs) (VB: [SnapReportFormGenerator.vb](./VB/WindowsFormsApplication1/GridReportExtensions/SnapReportFormGenerator.vb))
+<!-- default file list end -->
 # How to generate a live report based on GridControl content
 
 
